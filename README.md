@@ -6,11 +6,20 @@
 
 <div align="center">
 
-| Dashboard | Live Session | Model Management |
+| Dashboard | Settings | Model Management |
 |:---------:|:------------:|:----------------:|
-| <img src="screenshots/Screenshot%202026-04-14%20025938.png" width="300"> | <img src="screenshots/Screenshot%202026-04-14%20030137.png" width="300"> | <img src="screenshots/Screenshot%202026-04-14%20030137.png" width="300"> |
+| <img src="screenshots/Screenshot%202026-04-14%20025938.png" width="300"> | <img src="screenshots/Screenshot%202026-04-14%20030137.png" width="300"> | <img src="screenshots/Screenshot 2026-04-14 030603.png" width="300"> |
 
 </div>
+
+
+## ⌨️ Keyboard Shortcuts
+
+| Shortcut | Action |
+|:--------:|:-------|
+| `Esc` | Exit application |
+| `Ctrl+H` | Toggle Clear Mode (distraction-free UI) |
+
 
 
 ## ✨ Features
